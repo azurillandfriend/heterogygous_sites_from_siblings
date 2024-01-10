@@ -7,4 +7,4 @@ The first time the notebook is run it will be necessary to install the packages.
 
 This code has been written for zarr formatted genotypes from the Anopheles gambiae 1000 genomes project.
 
-The outputted VCFs are intended to be used to facilitate detection of SNPs showing allelic imbalance of expression in rNAseq data in the siblings of the genotyped individuals. 
+The outputted VCFs are intended to be used to facilitate detection of SNPs showing allelic imbalance of expression in RNAseq data in the siblings of the genotyped individuals. 
